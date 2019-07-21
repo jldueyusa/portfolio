@@ -9,12 +9,12 @@ I deployed a Heroku app to directly link my portfolio. Since Heroku doesn't supp
 
 1. I took the "About Me" section from the Bootstrap homework and reformatted my index.html. 
 
-![aboutMe](https://github.com/jldueyusa/portfolio/blob/master/assets/images/aboutme.png)
+![aboutMe1](https://github.com/jldueyusa/portfolio/blob/master/assets/images/aboutme.png)
 
 
 2. At the bottom of the page the user can click on any one of the links to deploy the desired app.
 
-![crystal Inst 2](https://github.com/jldueyusa/portfolio/blob/master/assets/images/projects.png)
+![portfolio2](https://github.com/jldueyusa/portfolio/blob/master/assets/images/projects.png)
 
 # Tools and Applications
 - JavaScript
