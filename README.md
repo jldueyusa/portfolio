@@ -12,7 +12,7 @@ I deployed a Heroku app to directly link my portfolio. Since Heroku doesn't supp
 ![aboutMe](https://github.com/jldueyusa/portfolio/blob/master/assets/images/aboutme.png)
 
 
-2. The user can click on any one of the links to click into the app.
+2. The user can click on any one of the links to deploy the desired app.
 
 ![crystal Inst 2](https://github.com/jldueyusa/portfolio/blob/master/assets/images/projects.png)
 
