@@ -7,12 +7,12 @@ I deployed a Heroku app to directly link my portfolio. Since Heroku doesn't supp
 
 ### Explained
 
-1. I took the "About Me" section from the Bootstrap homework and added it to the top of my portfolio.html. I bolded text at the bottom to remind the user to scroll down to see my project links.
+1. I took the "About Me" section from the Bootstrap homework and reformatted my index.html. 
 
 ![aboutMe](https://github.com/jldueyusa/portfolio/blob/master/assets/images/aboutme.png)
 
 
-2. The user can click on any one of the links to deploy the desired app.
+2. At the bottom of the page the user can click on any one of the links to deploy the desired app.
 
 ![crystal Inst 2](https://github.com/jldueyusa/portfolio/blob/master/assets/images/projects.png)
 
