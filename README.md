@@ -9,12 +9,12 @@ I deployed a Heroku app to directly link my portfolio. Since Heroku doesn't supp
 
 1. I took the "About Me" section from the Bootstrap homework and added it to the top of my portfolio.html. I bolded text at the bottom to remind the user to scroll down to see my project links.
 
-![aboutMe](https://github.com/jldueyusa/unit-4-game/blob/master/images/crystal1.png)
+![aboutMe](https://github.com/jldueyusa/portfolio/blob/master/assets/images/aboutme.png)
 
 
 2. The user can click on any one of the links to click into the app.
 
-![crystal Inst 2](https://github.com/jldueyusa/unit-4-game/blob/master/images/crystal2.png)
+![crystal Inst 2](https://github.com/jldueyusa/portfolio/blob/master/assets/images/projects.png)
 
 # Tools and Applications
 - JavaScript
